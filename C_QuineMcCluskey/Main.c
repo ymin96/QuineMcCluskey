@@ -3,7 +3,7 @@
 #include <string.h>
 #include "Implicant.h"
 #include "QuineMcCluskey.h"
-void sort(int arr[],int num) {
+void sort(int arr[],int num) {             //배열을 정렬해주는 함수
 	for (int i = 0; i < num; i++) {
 		for (int j = 0; j < num - 1; j++) {
 			if (arr[j] > arr[j + 1]) {
