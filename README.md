@@ -22,27 +22,27 @@ Play Excercise(이하 PLEX) 는 비가 오나 눈이 오나 상관없이 집에�
 
 
 
-![메인화면](README.assets/메인화면.png)
+![메인화면](README.assets/main.png)
 
 메인화면
 
-![대기방](README.assets/대기방.png)
+![대기방](README.assets/wait.png)
 
 대기실 화면
 
-![줄다리기](README.assets/줄다리기.png)
+![줄다리기](README.assets/game1.png)
 
 줄다리기 게임(3대3 팀전) 화면
 
-![달리기](README.assets/달리기.png)
+![달리기](README.assets/game2.png)
 
 달리기 게임(개인전) 화면
 
-![랭킹화면](README.assets/랭킹화면-166087588471719.png)
+![랭킹화면](README.assets/rank.png)
 
 랭킹 화면
 
-![마이페이지](README.assets/마이페이지-166087589581721.png)
+![마이페이지](README.assets/mypage.png)
 
 마이페이지 화면
 
@@ -110,13 +110,13 @@ Play Excercise(이하 PLEX) 는 비가 오나 눈이 오나 상관없이 집에�
 
 # 요구사항 정의서
 
-![요구사항 정의서](README.assets/요구사항정의서.png)
+![요구사항 정의서](README.assets/api.png)
 
 
 
 # 화면 설계서
 
-![화면 설계서](README.assets/화면설계서.png)
+![화면 설계서](README.assets/figma.png)
 
 
 
